@@ -1,0 +1,5 @@
+Time complexity Big-0:
+
+* Singleloop - O(n) :: Linear
+* Nested loop - O(n^2) :: Quadratic
+* Input size reduced by half - O(logn)
